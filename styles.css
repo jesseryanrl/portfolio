@@ -14,7 +14,8 @@ https://coolors.co/
 #7A4703 - Chocolate was used for hyperlinks
 
 */
-/* used google fonts Nunito Sans */
+/* Body Font: used google fonts Nunito Sans 
+    Header font: font-family: 'Roboto Condensed', sans-serif;*/
 
 /* Global styles
 ------------------------------------*/
@@ -85,6 +86,7 @@ html {
   /* Profile
   ------------------------------------*/
   header {
+    font-family: 'Roboto Condensed', sans-serif;
     background: #353535;
     color: #f7fff7;
   }
